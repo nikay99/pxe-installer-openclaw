@@ -7,7 +7,7 @@
 Auf dem **Proxmox-Host (Node)** als **root** einmal ausführen:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/DEIN-GITHUB-USER/PVE-Onetimeopenclaw/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nikay99/pxe-installer-openclaw/main/install.sh | bash
 ```
 
 **Was passiert:**
